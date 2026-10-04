@@ -7,7 +7,7 @@ I am a mechatronics engineering student with a strong focus on autonomous system
 - **Programming:** C, C++, Python
 - **Embedded & Hardware:** STM32, Nuvoton, Sensor Integration (LiDAR, IMU/MPU6050, Encoders)
 - **Simulation & Control:** MATLAB, Simulink, Keil μVision, Qt Creator
-- **CAD & PCB Design:** Fusion 360, SolidWorks, EasyEDA
+- **CAD & PCB Design:** Fusion 360, EasyEDA
 
 **Core Competencies & Interests**
 - Autonomous Navigation (LiDAR SLAM, Extended Kalman Filter)
